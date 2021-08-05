@@ -244,3 +244,13 @@ textarea:focus {
 .contact .contact-form .form-group {
     margin: 0.75rem;
 }
+
+@media(max-height: 668px) {
+    .l-heading {
+        font-size: 2.7rem;
+    }
+
+    .lead {
+        font-size: 1rem;
+    }
+}
